@@ -1,2 +1,8 @@
-
+item-1{
+	position: center;
+	width: 100px;
+    height:100px;
+	display:flex;
+	background-color:red;
+}
 /* Your CSS Code here. */
