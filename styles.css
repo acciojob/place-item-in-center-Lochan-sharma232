@@ -1,6 +1,9 @@
 .holder{
 	width:100vw;
 	height:100vh;
+	align-items: center;
+	justify-content: center;
+	display: flex;
 }
 holder>item item-1{
 	position:center;
