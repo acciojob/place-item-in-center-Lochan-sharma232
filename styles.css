@@ -1,8 +1,6 @@
-.holder{
-	position: center;
-	width: 100px;
-    height:100px;
-	display:flex;
+.item item-1{
+	flexbox:center;
+	width:100px;
+	height:100px;
 	background-color:red;
 }
-/* Your CSS Code here. */
