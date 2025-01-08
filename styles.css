@@ -2,7 +2,7 @@
 	width:100vw;
 	height:100vh;
 }
-item item-1{
+holder>item item-1{
 	position:center;
 	display: flex;
 	width: 100px;
