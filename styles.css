@@ -1,6 +1,11 @@
+.holder{
+	width:100vw;
+	hieght:100vh;
+}
 .item item-1{
-	flexbox:center;
-	width:100px;
+	position:center;
+	flex:
+	width: 100px;
 	height:100px;
 	background-color:red;
 }
